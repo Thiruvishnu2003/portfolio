@@ -346,6 +346,7 @@ td{
     .div_info{
         margin: 0px;
         padding-top: 200px;
+        height: 500px;
     }
     .p1{
         font-size: 17px;
@@ -372,5 +373,75 @@ td{
     }
     .home_bt{
         margin-left: 40px;
+    }
+
+    #about{
+        padding-bottom: 0px;
+    }
+    .s2_div1_p1{
+        padding-top: 50px;
+        font-size: 25px;
+    }
+    .s2_div2_p2{
+        font-size: 20px;
+        padding: 0px;
+    }
+    .s2_div2_p3{
+        padding: 10px;
+        font-size: 20px;
+    }
+
+    .s3_head{
+        font-size: 25px;
+        margin-top: 5px;
+    }
+    .s3_div1{
+        padding-left: 15px;
+    }
+    .s3_div_p1{
+        font-size: 20px;
+    }
+    .s3_div_p3{
+        font-size: 15px;
+    }
+
+    .s4_head{
+        font-size: 25px;
+        margin-top: 5px;
+    }
+    .s4_div{
+        padding-left: 15px;
+    }
+    .s4_div_p{
+        font-size: 15px;
+        line-height: 25px;
+    }
+
+
+    #contact{
+        padding-bottom: 50px;
+    }
+    .s5_head{
+        font-size: 25px;
+        margin-top: 3px;
+        margin-bottom: 3px;
+    }
+    table{
+        padding: 0px;
+    }
+    td{
+        font-size: 15px;
+        padding: 10px;
+    }
+    .in_label{
+        font-size: 15px;
+    }
+    .input{
+        height: 30px;
+        padding: 0px;
+        width: 200px;
+    }
+    .bt{
+        font-size: 15px;
     }
 }
